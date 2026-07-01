@@ -1,6 +1,6 @@
 # PEA
 
-Zbiór algorytmów do problemu ATSP zaprojektowanych w ramach przedmiotu - Projektowanie Efektywnych Algorytmów.
+Zbiór algorytmów w C++ do problemu ATSP zaprojektowanych w ramach przedmiotu - Projektowanie Efektywnych Algorytmów.
 
 Zaprojektowane algorytmy:
 1. Brute Force, Nearest Neighbor, Repetitive Nearest Neighbor, Random Search
